@@ -11,7 +11,6 @@
   I'm constantly exploring new technologies and love turning complex problems into elegant solutions.
 </p>
 
----
 
 ## Let's Connect
 
@@ -27,17 +26,15 @@
   </a>
 </p>
 
----
 
 ## Tech Stack & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,php,laravel,nodejs,python,mysql,postgres,git,github,postman,figma&perline=6" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,php,laravel,nodejs,python,flutter,dart,mysql,postgres,supabase,firebase,git,github,postman,figma&perline=11" alt="My Skills" />
   </a>
 </p>
 
----
 
 ## GitHub Analytics
 
@@ -52,7 +49,14 @@
   </tr>
 </table>
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/firman-maulana/firman-maulana/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/firman-maulana/firman-maulana/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/firman-maulana/firman-maulana/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
 
 ## Featured Projects
 
@@ -65,15 +69,5 @@
   </a>
 </p>
 
----
-
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/firman-maulana/firman-maulana/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/firman-maulana/firman-maulana/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/firman-maulana/firman-maulana/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
 
 </div>
