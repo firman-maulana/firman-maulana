@@ -30,11 +30,9 @@
 ## Tech Stack & Tools
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,php,laravel,nodejs,python,flutter,dart,mysql,postgres,supabase,firebase,git,github,postman,figma,n8n&perline=12" alt="My Skills" />
-</a>
- <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,php,laravel,nodejs,python,flutter,dart,mysql,postgres,supabase,firebase,git,github,postman,figma&perline=12" />
+  <img src="https://cdn.simpleicons.org/n8n" width="48" />
+  <img src="https://cdn.simpleicons.org/ollama" width="48" />
 </p>
 
 
