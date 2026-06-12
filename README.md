@@ -15,14 +15,14 @@
 ## Let's Connect
 
 <p align="center">
-  <a href="https://www.instagram.com/fire.m_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
   <a href="mailto:firmanjabbar6@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://firman-portofolio-mu.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-252F3F?style=for-the-badge&logo=globe&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.instagram.com/fire.m_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
@@ -31,8 +31,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,php,laravel,nodejs,python,flutter,dart,mysql,postgres,supabase,firebase,git,github,postman,figma&perline=11" alt="My Skills" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,php,laravel,nodejs,python,flutter,dart,mysql,postgres,supabase,firebase,git,github,postman,figma,n8n&perline=12" alt="My Skills" />
+</a>
 </p>
 
 
