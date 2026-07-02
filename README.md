@@ -57,7 +57,6 @@
   </picture>
 </p>
 
-
 ## Featured Projects
 
 <p align="center">
