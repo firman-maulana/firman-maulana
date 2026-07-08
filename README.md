@@ -41,10 +41,10 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=firman-maulana&show_icons=true&theme=tokyonight&hide_border=true" alt="Firman Maulana's GitHub Stats" />
+      <img src="https://github-readme-stats-sooty-beta-99.vercel.app/api?username=firman-maulana&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=firman-maulana&theme=tokyonight&hide_border=true" alt="Firman Maulana's GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=firman-maulana&theme=tokyonight&hide_border=true" alt="Firman Maulana's GitHub Streak" />
     </td>
   </tr>
 </table>
@@ -60,11 +60,11 @@
 ## Featured Projects
 
 <p align="center">
-  <a href="https://github.com/firman-maulana/brightummah">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=firman-maulana&repo=brightummah&theme=tokyonight&hide_border=true" alt="Featured Project 1" />
-  </a>
   <a href="https://github.com/firman-maulana/pision.id">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=firman-maulana&repo=pision.id&theme=tokyonight&hide_border=true" alt="Featured Project 2" />
+    <img src="https://github-readme-stats-sooty-beta-99.vercel.app/api/pin/?username=firman-maulana&repo=pision.id&theme=tokyonight&hide_border=true" alt="Featured Project 1" />
+  </a>
+  <a href="https://github.com/firman-maulana/medikago">
+    <img src="https://github-readme-stats-sooty-beta-99.vercel.app/api/pin/?username=firman-maulana&repo=medikago&theme=tokyonight&hide_border=true" alt="Featured Project 2" />
   </a>
 </p>
 
