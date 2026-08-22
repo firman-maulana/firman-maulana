@@ -12,7 +12,7 @@
 </p>
 
 
-## Let's Connect
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="mailto:firmanjabbar6@gmail.com">
@@ -27,7 +27,7 @@
 </p>
 
 
-## Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -36,18 +36,27 @@
 </p>
 
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats-sooty-beta-99.vercel.app/api?username=firman-maulana&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=firman-maulana&theme=tokyonight&hide_border=true" alt="Firman Maulana's GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=firman-maulana&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophy" />
+  </a>
+</div>
+<br/>
+<p align="center">
+  <a href="https://github.com/firman-maulana">
+    <img src="https://github-readme-stats.vercel.app/api?username=firman-maulana&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/firman-maulana">
+    <img src="https://streak-stats.demolab.com?user=firman-maulana&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/firman-maulana">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firman-maulana&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
 
 <p align="center">
   <picture>
@@ -57,14 +66,14 @@
   </picture>
 </p>
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <p align="center">
   <a href="https://github.com/firman-maulana/pision.id">
-    <img src="https://github-readme-stats-sooty-beta-99.vercel.app/api/pin/?username=firman-maulana&repo=pision.id&theme=tokyonight&hide_border=true" alt="Featured Project 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=firman-maulana&repo=pision.id&theme=tokyonight&hide_border=true" alt="Featured Project 1" />
   </a>
   <a href="https://github.com/firman-maulana/medikago">
-    <img src="https://github-readme-stats-sooty-beta-99.vercel.app/api/pin/?username=firman-maulana&repo=medikago&theme=tokyonight&hide_border=true" alt="Featured Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=firman-maulana&repo=medikago&theme=tokyonight&hide_border=true" alt="Featured Project 2" />
   </a>
 </p>
 
