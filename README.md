@@ -23,11 +23,11 @@
   <a href="mailto:firmanjabbar6@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="E-mail" />
   </a>
-  <a href="https://firman-portofolio-mu.vercel.app/" target="_blank">
+  <a href="https://portfoliofirman.vercel.app/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vercel" alt="My Website" />
   </a>
-  <a href="https://www.instagram.com/fire.m_/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  <a href="https://www.linkedin.com/in/firman-maulana-5b1a0b33a/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" />
   </a>
 </p>
 
