@@ -43,16 +43,7 @@
 
 ## 📊 GitHub Analytics
 
-<table border="0" cellspacing="0" cellpadding="5">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github.com/firman-maulana/firman-maulana/main/header.svg/github-stats.svg" />
-    </td>
-   
-  </tr>
-</table>
-
-<!-- <table align="center" width="100%">
+<table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
       <img
@@ -117,8 +108,6 @@
       />
     </td>
   </tr>
-</table> -->
-
-
+</table>
 
 </div>
