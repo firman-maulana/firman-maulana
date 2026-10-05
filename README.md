@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,php,arduino,cpp,laravel,nodejs,python,pytorch,opencv,fastapi,flutter,androidstudio,dart,mysql,postgres,supabase,firebase,git,github,vercel,postman,figma&perline=11" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vuejs,tailwind,bootstrap,arduino,go,laravel,nodejs,python,pytorch,opencv,fastapi,flutter,dart,mysql,postgres,mongodb,supabase,firebase,git,github,vercel,postman,linux&perline=11" alt="My Skills" />
   </a>
 </p>
 
